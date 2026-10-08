@@ -18,7 +18,7 @@ SOC Analyst focused on threat detection and incident response. I also build secu
 
 ## Featured projects
 
-- **[GRC-Access-Governance](https://github.com/husnain-infosec/GRC-Access-Governance)** — Role-based access governance platform (V1 capstone): three-role RBAC with department isolation, access request → approval → grant → revoke workflow, append-only audit logging. FastAPI, React, PostgreSQL. [Live demo](https://grc-access-governance.vercel.app)
+- **[GRC-Access-Governance](https://github.com/husnain-infosec/GRC-Access-Governance)** — Role-based access governance platform (V1 capstone): three-role RBAC with department isolation, access request → approval → grant → revoke workflow, append-only audit logging. FastAPI, React, PostgreSQL. 
 - **[SOC-MITRE-Lab](https://github.com/husnain-infosec/SOC-MITRE-Lab)** — SOC home lab simulating five MITRE ATT&CK techniques against Wazuh; documents detections and detection gaps with analysis.
 - **[Payvify](https://github.com/husnain-infosec/Payvify)** — Payment API MVP for JazzCash/Easypaisa: order lifecycle, HMAC-signed webhooks, idempotency and amount validation. Node.js/Express.
 
